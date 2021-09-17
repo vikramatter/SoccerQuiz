@@ -30,10 +30,12 @@ var questions = [
 		answer: '2'
 	},
   {
-  question:'Which team did Chelsea played against in Super Cup Final?',
-  answer:'Villareal'},
-  {question:'Who is the manager of Chelsea?',
-  answer:'Tuchel',
+     question:'Which team did Chelsea played against in Super Cup Final?',
+      answer:'Villareal'
+  },
+  {
+    question:'Who is the manager of Chelsea?',
+    answer:'Tuchel',
   },
   {
     question:'Who was the predecessor Of Tuchel?',
