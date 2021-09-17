@@ -23,11 +23,11 @@ var questions = [
 	},
 	{
 		question: 'Who Scored the Goal In Ucl final? ',
-		answer: 'Kai Havertz'
+		answer: 'Havertz'
 	},
 	{
 		question: 'How MAny Ucl titles Have Chelsea Won? ',
-		answer: 'Two'
+		answer: '2'
 	},
   {
   question:'Which team did Chelsea played against in Super Cup Final?',
